@@ -1,0 +1,78 @@
+        #rumah{
+            width: 200px;
+            margin: auto;
+        }
+        .kopetensi{
+            color: rgb(0, 42, 255);
+            font-style: italic;
+            font-size: large;
+        }
+        .pendidikan{
+            height: 500px;
+        }
+        .huruf{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: xx-large;
+            font-weight: 500;
+        }
+        .jarak{
+            margin-top: 30px;
+            margin-bottom: 50px;    
+        }
+        .warna{
+            background-color: coral;
+        }
+        .tingi{
+            height: 150px;
+        }
+        .lebar{
+            width: 100px;
+        }
+        .box{
+            background-color: red;
+            position: absolute;
+        }
+        .panjang{
+            width: 500px;
+        }
+        .box-1{
+            background-color: yellow;
+            position: absolute;
+            top: 50px;
+        }
+        .box-2{
+            background-color: aqua;
+            position: absolute;
+            top: 50px;
+            left: 200px;
+        }
+        .box-3{
+            background-color: blueviolet;
+            position: absolute;
+            top: 50px;
+            left: 200px;
+        }
+        .batas-atas{
+            margin-top: 30px;
+        }
+        .batas-bawah{
+            padding-bottom: 30px;
+        }
+        .batas-kanan{
+            padding-left: 30px;
+        }
+        .batas-kiri{
+            padding-right: 30px;
+        }
+        .batas-dalam-atas{
+            padding-top: 30px;
+        }
+        .batas-dalam-bawah{
+            padding-bottom: 30px;
+        }
+        .batas-dalam-kanan{
+            padding-left: 30px;
+        }
+        .batas-dalam-kiri{
+            padding-right: 30px;
+        }
