@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Belajar percabangan</h1>
+    <h2 id="hasil"></h2>
+   
+    <script>
+        var nilai = 100;
+        var hasiltes = "";
+
+        if (nilai >= 90) {
+            hasiltes = "anda dapat A";
+            document.getElementById("hasil").innerHTML = hasiltes;
+        }
+        else if (nilai >= 70) {
+            hasiltes = "anda dapat B";
+            document.getElementById("hasil").innerHTML = hasiltes;
+        }
+        else {
+            hasiltes = "anda gagal";
+            document.getElementById("hasil").innerHTML = hasiltes;
+        }
+    </script>
+    
+</body>
+</html>
